@@ -6,7 +6,7 @@
 
 ##### 首先我们将下好的debugGap打开之后应该会出现下图的问题
 
-![error](/Users/hujun/Documents/error.png)
+![error](./error.png)
 
 ##### 首先看到这个会想什么是`node-webkit`？简单暴力点理解就是做桌面应用的
 
